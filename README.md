@@ -1,7 +1,7 @@
 # Ex06 BMI Calculator
 ## Date: 02-06-2026
-#Name:S Kamesh Kumar
-#Reg No:212225220046
+## Name:S Kamesh Kumar
+## Reg No:212225220046
 ## AIM
 To develop a responsive and interactive Body Mass Index (BMI) Calculator using React that allows users to input their height and weight, and calculates their BMI to categorize their health status (e.g., Underweight, Normal, Overweight, Obese).
 
